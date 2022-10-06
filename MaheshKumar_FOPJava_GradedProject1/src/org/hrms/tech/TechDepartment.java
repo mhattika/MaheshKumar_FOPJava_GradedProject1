@@ -1,6 +1,6 @@
 package org.hrms.tech;
 
-public class TechDepartment {
+public class TechDepartment extends SuperDepartment{
 
 	public String departmentName() {
 		return "Tech Department";
