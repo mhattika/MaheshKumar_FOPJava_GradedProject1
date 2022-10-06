@@ -9,7 +9,7 @@ public class HrDepartment extends SuperDepartment {
 	}
 
 	public String getTodaysWork() {
-		return "Fill today’s timesheet and mark your attendance";
+		return "Fill today's timesheet and mark your attendance";
 	}
 
 	public String getWorkDeadline() {
