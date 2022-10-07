@@ -1,5 +1,5 @@
 package org.hrms.tech;
-
+import org.hrms.model.SuperDepartment;
 public class TechDepartment extends SuperDepartment{
 
 	public String departmentName() {
